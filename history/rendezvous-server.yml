@@ -1,7 +1,7 @@
-url: https://rendezvous.uniclipboard.app
-status: down
-code: 404
-responseTime: 37
-lastUpdated: 2026-05-21T13:41:22.445Z
+url: https://rendezvous.uniclipboard.app/healthz
+status: up
+code: 200
+responseTime: 103
+lastUpdated: 2026-05-21T13:45:37.894Z
 startTime: 2026-05-21T13:36:39.312Z
 generator: Upptime <https://github.com/upptime/upptime>
