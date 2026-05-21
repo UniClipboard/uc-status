@@ -5,11 +5,11 @@ sites:
   - name: Website
     url: https://www.uniclipboard.app
   - name: Downloads
-    url: https://release.uniclipboard.app
+    url: https://release.uniclipboard.app/health
   - name: Relay Server
     url: https://relay.uniclipboard.app
   - name: Rendezvous Server
-    url: https://rendezvous.uniclipboard.app
+    url: https://rendezvous.uniclipboard.app/healthz
 
 status-website:
   cname: status.uniclipboard.app
