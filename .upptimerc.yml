@@ -1,31 +1,29 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: UniClipboard
+repo: uc-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Website
+    url: https://www.uniclipboard.app
+  - name: Downloads
+    url: https://release.uniclipboard.app
+  - name: Relay Server
+    url: https://relay.uniclipboard.app
+  - name: Rendezvous Server
+    url: https://rendezvous.uniclipboard.app
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.uniclipboard.app
+  name: UniClipboard Status
+  logoUrl: https://www.uniclipboard.app/logo.png
+  introTitle: "**UniClipboard** real-time service health."
+  introMessage: This page reports the current and historical availability of UniClipboard services. Data is collected every 5 minutes via [Upptime](https://upptime.js.org) and is fully open-source.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/UniClipboard/uc-status
+    - title: Website
+      href: https://www.uniclipboard.app
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - mkdir700
