@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1564,
-    "timeDay": 1564,
-    "timeWeek": 1564,
-    "timeMonth": 1564,
-    "timeYear": 1564,
+    "time": 1726,
+    "timeDay": 1726,
+    "timeWeek": 1726,
+    "timeMonth": 1726,
+    "timeYear": 1726,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/release.uniclipboard.app.ico",
     "slug": "downloads",
     "status": "up",
-    "uptime": "2.11%",
-    "uptimeDay": "2.11%",
-    "uptimeWeek": "2.11%",
-    "uptimeMonth": "2.11%",
-    "uptimeYear": "2.11%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "uptime": "95.89%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "95.89%",
+    "time": 56,
+    "timeDay": 56,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {
-      "2026-05-21": 9
+      "2026-05-21": 32
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rendezvous.uniclipboard.app.ico",
     "slug": "rendezvous-server",
     "status": "up",
-    "uptime": "2.27%",
-    "uptimeDay": "2.27%",
-    "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.27%",
-    "uptimeYear": "2.27%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "uptime": "95.93%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "95.93%",
+    "uptimeYear": "95.93%",
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {
-      "2026-05-21": 9
+      "2026-05-21": 32
     }
   }
 ]
