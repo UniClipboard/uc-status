@@ -4,10 +4,10 @@
     "url": "https://www.uniclipboard.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.uniclipboard.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1637,
@@ -15,7 +15,9 @@
     "timeWeek": 1453,
     "timeMonth": 1637,
     "timeYear": 1637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-18": 2
+    }
   },
   {
     "name": "Downloads",
