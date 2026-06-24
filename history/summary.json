@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.uniclipboard.app.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.62%",
-    "time": 1690,
-    "timeDay": 3026,
-    "timeWeek": 1737,
-    "timeMonth": 1666,
-    "timeYear": 1690,
+    "uptimeYear": "99.63%",
+    "time": 1716,
+    "timeDay": 2703,
+    "timeWeek": 2015,
+    "timeMonth": 1685,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2026-06-18": 180
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 112,
-    "timeDay": 153,
+    "timeDay": 135,
     "timeWeek": 121,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2026-05-21": 32
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 347,
-    "timeWeek": 244,
+    "timeDay": 290,
+    "timeWeek": 271,
     "timeMonth": 275,
     "timeYear": 278,
     "dailyMinutesDown": {}
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 104,
-    "timeDay": 156,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 104,
+    "time": 106,
+    "timeDay": 205,
+    "timeWeek": 123,
+    "timeMonth": 109,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2026-05-21": 32
     }
