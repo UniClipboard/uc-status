@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1467,
-    "timeDay": 553,
-    "timeWeek": 1440,
-    "timeMonth": 1301,
-    "timeYear": 1467,
+    "time": 1474,
+    "timeDay": 2298,
+    "timeWeek": 1629,
+    "timeMonth": 1356,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2026-06-18": 180
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 136,
-    "timeDay": 236,
-    "timeWeek": 218,
-    "timeMonth": 187,
-    "timeYear": 136,
+    "time": 137,
+    "timeDay": 164,
+    "timeWeek": 215,
+    "timeMonth": 190,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2026-05-21": 32
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.uniclipboard.app.ico",
     "slug": "relay-server",
     "status": "up",
-    "uptime": "77.40%",
+    "uptime": "77.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.40%",
+    "uptimeYear": "77.59%",
     "time": 223,
-    "timeDay": 189,
-    "timeWeek": 204,
-    "timeMonth": 175,
+    "timeDay": 193,
+    "timeWeek": 189,
+    "timeMonth": 177,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2026-07-28": 405,
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 117,
-    "timeDay": 101,
-    "timeWeek": 133,
-    "timeMonth": 135,
+    "timeDay": 93,
+    "timeWeek": 124,
+    "timeMonth": 134,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-05-21": 32
