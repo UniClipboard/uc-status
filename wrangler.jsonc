@@ -22,5 +22,12 @@
       "head_sampling_rate": 0.1
     }
   },
-  "main": "worker.js"
+  "main": "worker.js",
+  "routes": [
+    {
+      "pattern": "status.uniclipboard.app",
+      "custom_domain": true
+    }
+  ],
+  "preview_urls": false
 }
