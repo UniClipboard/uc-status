@@ -1,0 +1,9 @@
+{
+  "name": "uc-status-deployment",
+  "private": true,
+  "scripts": {
+    "build": "sh scripts/prepare-assets.sh",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": { "wrangler": "4.158.0" }
+}
