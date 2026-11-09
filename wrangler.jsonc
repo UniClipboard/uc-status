@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "uc-status",
+  "account_id": "10bd9b12698da3c8aa30ff9ebfa81c71",
+  "compatibility_date": "2026-11-09",
+  "workers_dev": true,
+  "assets": {
+    "directory": ".build/assets",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/history/*",
+      "/incident/*",
+      "/rate-limit-exceeded"
+    ]
+  },
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.1
+    }
+  },
+  "main": "worker.js"
+}
