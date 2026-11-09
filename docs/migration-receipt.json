@@ -1,0 +1,60 @@
+{
+  "recordedAt": "2026-11-09T11:55:24.331381+00:00",
+  "state": "LIVE_ON_CLOUDFLARE_WORKERS",
+  "hostname": "status.uniclipboard.app",
+  "worker": "uc-status",
+  "account": "10bd9b12698da3c8aa30ff9ebfa81c71",
+  "sourceMerge": "409f27761e788e800b0e6d6fccd2584fb9ea1313",
+  "assetSource": "6eae7e58d49692e581c0976a68af6206929ed919",
+  "workerVersion": "d4211864-bea5-4b5a-bade-936fdb28c4f7",
+  "cloudflareBuild": {
+    "id": "4307c902-0182-4ad6-868b-fd784a5469db",
+    "outcome": "success",
+    "trigger": "28fd7f46-6b4a-40c2-ba74-ec8ea40b1532",
+    "watchedBranch": "gh-pages",
+    "configurationBranch": "master",
+    "configurationChanges": "Manual rebuild; next generated-site build also reads current master.",
+    "triggerValidation": "Managed build manually invoked and completed; future generated-branch push event not exercised."
+  },
+  "publicHTTP": {
+    "origin": "https://status.uniclipboard.app",
+    "results": [
+      {
+        "path": "/",
+        "result": "PASS"
+      },
+      {
+        "path": "/history/website",
+        "result": "PASS"
+      },
+      {
+        "path": "/incident/1",
+        "result": "PASS"
+      },
+      {
+        "path": "/rate-limit-exceeded",
+        "result": "PASS"
+      },
+      {
+        "name": "all static asset hashes",
+        "files": 41,
+        "result": "PASS"
+      }
+    ],
+    "browser": "NOT_RUN_USER_OWNED"
+  },
+  "externalData": {
+    "url": "https://raw.githubusercontent.com/UniClipboard/uc-status/master/history/summary.json",
+    "status": 200,
+    "services": 4
+  },
+  "vercel": {
+    "project": "prj_Ooo9F80W4T2tvnBbTeegJe2ABUrK",
+    "paused": true,
+    "gitDisconnected": true,
+    "oldCname": "9ef2e5c63d919aee.vercel-dns-017.com",
+    "previousPublicStatus": 402
+  },
+  "monitoring": "Original GitHub Actions and historical data unchanged",
+  "browser": "NOT_RUN_USER_OWNED"
+}

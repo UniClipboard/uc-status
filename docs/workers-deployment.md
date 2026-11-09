@@ -27,13 +27,14 @@ A new data sample does not require a Worker deployment.
 
 Cloudflare Workers Builds uses the repository's GitHub connection and an existing account-owned Workers build token.
 No expiring local OAuth token is copied into GitHub Actions.
-One build trigger watches generated assets on `gh-pages` and deployment source files on `master`.
-The path filter excludes monitoring data and generated graphs.
+The production build trigger watches `gh-pages`.
+Monitoring samples remain on `master` and do not cause unnecessary static deployments.
 The trigger uses `scripts/worker-build.sh` from the current source branch and package the current generated branch.
 The build records the generated commit in `.build/source.json`.
 The deployment command pins Wrangler 4.158.0 and runs HTTP acceptance after deployment.
 
-To rebuild manually, run the `uc-status` Cloudflare Workers Builds trigger.
+After changing deployment configuration on `master`, run the `uc-status` Cloudflare Workers Builds trigger.
+Generated-site commits trigger production deployments automatically.
 For an operator deployment from the source checkout:
 
 ```sh
